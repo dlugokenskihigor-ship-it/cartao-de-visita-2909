@@ -1,0 +1,17 @@
+.cartVisita{
+    display: block;
+    border-style:solid ;
+    border-radius: 30px;
+    text-align: center;
+    background-color: cadetblue;
+    justify-content: space-between;
+    margin: 100px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  .imagem-responsiva {
+            max-width: 100%;  /* A imagem nunca fica maior que o container dela */
+            width: 400px;     /* Largura desejada */
+            height: auto;     /* Mantém a proporção original, sem distorcer */
+            border-radius: 8px; /* Opcional: cantos arredondados */
+        }
